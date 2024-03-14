@@ -22,10 +22,9 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?
-i="cs,js,swift,kotlin,py,jquery,dotnet,html,css,bootstrap />
-    <img src="https://skillicons.dev/icons?
-i=firebase,mongodb,mysql,git,heroku,azure,androidstudio,visualstudio,figma,postman,linux" /><br>
+    <img src="https://skillicons.dev/icons?i=cs,js,swift,kotlin,py,jquery,dotnet,html,css,bootstrap"/>
+    <img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql,git,heroku,azure,androidstudio,visualstudio,figma,postman,linux"/>
+    <br>
   
 </div>
 
