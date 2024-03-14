@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=HEYYY!+👋;+I'm+Tomas+Augustin+Peranic!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=55BE51&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome!+👋;+I'm+Tomas+Augustin+Peranic!;" />
 </h1>
 
 <h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
@@ -34,7 +34,7 @@
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/peranictomas/peranictomas/output/github-contribution-grid-snake.svg" />
   
-  <br/><br/><br/>
+<br/><br/><br/>
 </div>
 
 <hr/>
@@ -45,12 +45,11 @@
 
 <img width=390 src="https://github-readme-streak-stats-peranictomas-projects.vercel.app?user=peranictomas&count_private=true&theme=react&ring=55BE51&fire=55BE51&currStreakNum=55BE51&currStreakLabel=55BE51&sideNums=55BE51&sideLabels=55BE51&dates=EBEBEB&border_radius=10" alt="GitHub Streak" />
 
-<img width=390 src="https://github-readme-stats-peranictomas-projects.vercel.app/api?username=peranictomas&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-peranictomas.vercel.app/api/top-langs/?username=peranictomas&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<img width=390 src="https://github-readme-stats-peranictomas-projects.vercel.app/api?username=peranictomas&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&title_color=55BE51&icon_color=55BE51" alt="readme stats" />
+
+<br/>
+  
+<img width=325 align="center" src="https://github-readme-stats-peranictomas-projects.vercel.app/api/top-langs/?username=peranictomas&hide=HTML&langs_count=8&title_color=55BE51&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
-<br/><br/>
-<hr/>
-<br/>
 
