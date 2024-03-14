@@ -43,7 +43,7 @@
 <br>
 <div align=center>
 
-<img width=390 src="https://github-readme-streak-stats-peranictomas-projects.vercel.app?user=peranictomas&count_private=true&theme=dark&background=303030&ring=55BE51&fire=55BE51&currStreakNum=55BE51&currStreakLabel=55BE51&sideNums=55BE51&sideLabels=55BE51&dates=EBEBEB" alt="GitHub Streak" />
+<img width=390 src="https://github-readme-streak-stats-peranictomas-projects.vercel.app?user=peranictomas&count_private=true&theme=react&ring=55BE51&fire=55BE51&currStreakNum=55BE51&currStreakLabel=55BE51&sideNums=55BE51&sideLabels=55BE51&dates=EBEBEB" alt="GitHub Streak" />
 
 <img width=390 src="https://github-readme-stats-peranictomas-projects.vercel.app/api?username=peranictomas&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
