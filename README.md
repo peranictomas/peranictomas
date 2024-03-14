@@ -45,10 +45,9 @@
 
 <img width=390 src="https://github-readme-streak-stats-peranictomas-projects.vercel.app?user=peranictomas&count_private=true&theme=dark&background=303030&ring=55BE51&fire=55BE51&currStreakNum=55BE51&currStreakLabel=55BE51&sideNums=55BE51&sideLabels=55BE51&dates=EBEBEB" alt="GitHub Streak" />
 
-<img width=390 src="https://github-readme-stats-peranictomas-projects.vercel.app/api?username=peranictomas&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-
-  <img width=325 align="center" src="https://github-readme-streak-stats-peranictomas-projects.vercel.app/api/top-langs/?username=peranictomas&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
- 
+<img width=390 src="https://github-readme-stats-peranictomas.vercel.app/api?username=peranictomas&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-peranictomas.vercel.app/api/top-langs/?username=peranictomas&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
