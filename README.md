@@ -10,8 +10,7 @@
  
 <div align="center"> 
   <a href="mailto:peranic.tomas@hotmail.com">
-    <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white
-" />
+    <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" target="_blank"/>
   </a>
   <a href="https://www.linkedin.com/in/tomasperanic/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
