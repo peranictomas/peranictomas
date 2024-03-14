@@ -54,5 +54,3 @@
 <hr/>
 <br/>
 
-
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-peranictomas-projects.vercel.app?user=peranictomas&theme=dark" alt="GitHub Streak" /></a>
