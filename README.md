@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=55BE51&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome!+👋;+I'm+Tomas+Augustin+Peranic!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+<h3 align="center">A passionate software developer from the great white North 🇨🇦 with a Bachelor's in Mobile Computing. Eager to kickstart my career in software development. Let's build something amazing!</h3>
 
 <br/>
  
