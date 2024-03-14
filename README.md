@@ -44,7 +44,9 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-bxylaj6vh-peranictomas-projects.vercel.app?user=peranictomas" alt="streak stats"/>
+
+<img width=390 src="https://github-readme-streak-stats-bxylaj6vh-peranictomas-projects.vercel.app?user=peranictomas&theme=dark&background=303030&ring=55BE51CE&fire=55BE51CE&currStreakNum=55BE51CE&currStreakLabel=55BE51CE&sideNums=55BE51CE&sideLabels=55BE51CE&dates=EBEBEB" alt="GitHub Streak" /></a>
+    
   <img width=390 src="https://github-readme-stats-peranictomas.vercel.app/api?username=peranictomas&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-peranictomas.vercel.app/api/top-langs/?username=peranictomas&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
