@@ -45,7 +45,7 @@
 <br>
 <div align=center>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-bxylaj6vh-peranictomas-projects.vercel.app?user=peranictomas&theme=dark&background=303030&ring=55BE51CE&fire=55BE51CE&currStreakNum=55BE51CE&currStreakLabel=55BE51CE&sideNums=55BE51CE&sideLabels=55BE51CE&dates=EBEBEB" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-peranictomas-projects.vercel.app?user=peranictomas&theme=dark&background=303030&ring=55BE51CE&fire=55BE51CE&currStreakNum=55BE51CE&currStreakLabel=55BE51CE&sideNums=55BE51CE&sideLabels=55BE51CE&dates=EBEBEB" alt="GitHub Streak" /></a>
  
 </div>
 
